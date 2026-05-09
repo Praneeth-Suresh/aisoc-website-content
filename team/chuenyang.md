@@ -2,8 +2,7 @@
 name: "Beh Chuen Yang"
 role: "President"
 tagline: "I like RL BTW"
-order: 1 # Determines rendering order (lower numbers appear first)
-isPastMember: false
+category: "exco"
 social:
     github: "https://github.com/N00bcak" # Optional
     # linkedin: "https://linkedin.com/in/username" # Optional

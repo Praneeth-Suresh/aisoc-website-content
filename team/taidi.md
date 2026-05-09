@@ -2,8 +2,7 @@
 name: "Taidi Zhou"
 role: "Treasurer"
 tagline: "Ask me about fancy GPUs"
-order: 3 # Determines rendering order (lower numbers appear first)
-isPastMember: false
+category: "exco"
 social:
     github: "https://github.com/taiz2000" # Optional
     linkedin: "https://linkedin.com/in/taiz2k" # Optional

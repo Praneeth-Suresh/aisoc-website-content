@@ -8,7 +8,7 @@ We have three types of content, organized into directories:
 
 - `/blog`: Blog posts and articles.
 - `/events`: Information about upcoming and past events.
-- `/team`: Profiles for the society's core team members.
+- `/team`: Profiles for the society's team. Each entry has a `category` of `exco` (current executive committee), `member` (current member), or `alumni` (past exco/member).
 
 ## How to Add Content
 
