@@ -1,8 +1,8 @@
 ---
 name: "Beh Chuen Yang"
-role: "President"
+role: "ex-President"
 tagline: "I like RL BTW"
-category: "exco"
+category: "member"
 social:
     github: "https://github.com/N00bcak" # Optional
     # linkedin: "https://linkedin.com/in/username" # Optional

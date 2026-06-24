@@ -1,6 +1,6 @@
 ---
 name: "Zak"
-role: "Tech and Research Head"
+role: "Vice President"
 tagline: "Sometimes my weights understand me"
 image: "https://avatars.githubusercontent.com/u/101624746?v=4"
 category: "exco"

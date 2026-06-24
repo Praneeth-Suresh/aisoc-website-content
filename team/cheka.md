@@ -1,8 +1,8 @@
 ---
 name: "Cheka Low"
-role: "Programs Head"
+role: "ex-Programs Head"
 tagline: "Can you really call yourself a gym bro if you don’t know gradient descent?"
-category: "exco"
+category: "(ex)co"
 social:
     github: "https://github.com/ChekaLowQiJun?tab=repositories" # Optional
     linkedin: "https://www.linkedin.com/in/cheka-low-85b323230" # Optional

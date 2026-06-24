@@ -1,8 +1,8 @@
 ---
 name: "Taidi Zhou"
-role: "Treasurer"
+role: "ex-Treasurer"
 tagline: "Ask me about fancy GPUs"
-category: "exco"
+category: "member"
 social:
     github: "https://github.com/taiz2000" # Optional
     linkedin: "https://linkedin.com/in/taiz2k" # Optional
