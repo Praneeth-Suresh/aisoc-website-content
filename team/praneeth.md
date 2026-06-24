@@ -3,7 +3,7 @@ name: "Praneeth"
 role: "Tech Head"
 tagline: "~"
 category: "exco"
-social:
+# social:
     # github: "" # Optional
     # linkedin: "" # Optional
     # website: "" # Optional

@@ -3,7 +3,7 @@ name: "Ben Goh"
 role: "Programmes Head"
 tagline: "~"
 category: "exco"
-social:
+# social:
     # github: "" # Optional
     # linkedin: "" # Optional
     # website: "" # Optional

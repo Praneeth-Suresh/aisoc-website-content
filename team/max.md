@@ -3,7 +3,7 @@ name: "Max"
 role: "Treasurer"
 tagline: "~"
 category: "exco"
-social:
+# social:
     # github: "" # Optional
     # linkedin: "" # Optional
     # website: "" # Optional
